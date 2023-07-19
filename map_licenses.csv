@@ -1,0 +1,60 @@
+Path,Country,Content,License,Author
+geoBoundaries,all,all,CC-BY-4.0
+./geoeu/content/data/aut/adm1/license.jpeg,AUT,Federal States,CC-BY-SA-2.0,BEV.at
+./geoeu/content/data/bel/adm0/license.png,BEL,Country,CC-BY-4.0,European Commission
+./geoeu/content/data/bel/adm1/license.png,BEL,Federal Regions,CC-BY-4.0,European Commission
+./geoeu/content/data/bel/adm3/license.png,BEL,Districts,CC0,data.gov.be
+./geoeu/content/data/bgr/adm0/license.PNG,BGR,Country,Public Domain,Rarelibra@wikipedia
+./geoeu/content/data/bgr/adm1/license.PNG,BGR,Provinces,Public Domain,Rarelibra@wikipedia
+./geoeu/content/data/bgr/adm2/license.PNG,BGR,Municipalities,Public Domain,Rarelibra@wikipedia
+./geoeu/content/data/cyp/adm2/license.PNG,CYP,Communities,CC-BY-3.0
+./geoeu/content/data/cze/adm0/license.png,CZE,Country,CC-BY-4.0
+./geoeu/content/data/cze/adm1/license.png,CZE,Regions,CC-BY-4.0
+./geoeu/content/data/cze/adm2/license.PNG,CZE,Districts,CC0
+./geoeu/content/data/cze/adm4/License.png,CZE,Villages,CC-BY-SA-2.0
+./geoeu/content/data/deu/adm0/license.PNG,DEU,Country,DL-DE-BY-2-0,GovData.de
+./geoeu/content/data/deu/adm1/license.PNG,DEU,Federal States,DL-DE-BY-2-0,GovData.de
+./geoeu/content/data/deu/adm2/license.PNG,DEU,Government Districts,DL-DE-BY-2-0,GovData.de
+./geoeu/content/data/deu/adm3/license.PNG,DEU,Districts,DL-DE-BY-2-0,GovData.de
+./geoeu/content/data/dnk/adm0/license.jpg,DNK,Country,CC-BY-4.0
+./geoeu/content/data/dnk/adm1/license.jpg,DNK,Regions,CC-BY-4.0
+./geoeu/content/data/dnk/adm2/license.png,DNK,Municipalities,CC-BY-4.0
+./geoeu/content/data/esp/adm2/license.png,ESP,Provinces,Licencia INE,INE
+./geoeu/content/data/esp/adm3/license.PNG,ESP,Municipalities,CC-BY-4.0,ING.es
+./geoeu/content/data/est/adm3/license.png,EST,Neighbourhoods,ODbL,OpenStreetMap
+./geoeu/content/data/fra/adm0/license.PNG,FRA,Country,CC0-1.0,
+./geoeu/content/data/fra/adm1/license.png,FRA,Regions,Etalab,IGN.fr
+./geoeu/content/data/fra/adm2/license.png,FRA,Departments,Etalab,IGN.fr
+./geoeu/content/data/fra/adm3/license.png,FRA,Districts,Etalab,IGN.fr
+./geoeu/content/data/fra/adm5/license.png,FRA,Municipalities,Etalab,IGN.fr
+./geoeu/content/data/grc/adm1/license.PNG,GRC,Group of Regions,CC-BY-4.0,EuroGeographics
+./geoeu/content/data/grc/adm3/license.PNG,GRC,Municipalities,CC0-1.0
+./geoeu/content/data/hrv/adm1/license.png,HRV,Counties,ODbL,OpenStreetMap
+./geoeu/content/data/hrv/adm2/license.PNG,HRV,Municipalities,ODbL,OpenStreetMap
+./geoeu/content/data/hun/adm0/License.PNG,HUN,Country,CC0-1.0,Urutseg@wikipedia
+./geoeu/content/data/hun/adm1/License.PNG,HUN,Counties,CC0-1.0,Urutseg@wikipedia
+./geoeu/content/data/irl/adm0/license.PNG,IRL,Country,ODbL,OpenStreetMap
+./geoeu/content/data/irl/adm1/license.png,IRL,Provinces,CC-BY-4.0,Ordnance Survey Ireland
+./geoeu/content/data/irl/adm2/License.png,IRL,Local Electoral Areas,CC-BY-4.0
+./geoeu/content/data/ita/adm2/license.png,ITA,Provinces,CC-BY-3.0,Istat.it
+./geoeu/content/data/ltu/adm1/license.png,LTU,Counties,ODbL,OpenStreetMap
+./geoeu/content/data/lva/adm0/license.png,LVA,Country,CC-BY-4.0,GeoLatvija.lv
+./geoeu/content/data/lva/adm1/license.png,LVA,Municipalities | State Cities,CC-BY-4.0,GeoLatvija.lv
+./geoeu/content/data/lva/adm2/license.png,LVA,Counties,CC-BY-4.0,data.gov.lv
+./geoeu/content/data/mlt/adm0/License.PNG,MLT,Country,Public Domain,Turkmenistan@wikipedia
+./geoeu/content/data/mlt/adm1/License.PNG,MLT,Local councils,Personal agreement,D-maps.org
+./geoeu/content/data/nld/adm0/license.PNG,NLD,Country,CC0-1.0,Nationaal Georegister
+./geoeu/content/data/nld/adm1/license.PNG,NLD,Provinces,CC0-1.0,Nationaal Georegister
+./geoeu/content/data/nld/adm2/license.PNG,NLD,Municipalities,CC0-1.0,Nationaal Georegister
+./geoeu/content/data/pol/adm2/license.png,POL,Counties,ODbL,OpenStreetMap
+./geoeu/content/data/pol/adm3/license.PNG,POL,Municipalities,ODbL,OpenStreetMap
+./geoeu/content/data/prt/adm3/license.png,PRT,Parishes,INSPIRE Directive,SNIG
+./geoeu/content/data/rou/adm0/license.PNG,ROU,Country,CC-BY-3.0,StatSilk
+./geoeu/content/data/rou/adm1/license.png,ROU,Counties,CC-BY-4.0,World Bank
+./geoeu/content/data/rou/adm2/license.png,ROU,Communes | Municipalities,CC-BY-4.0,data.gov.ro
+./geoeu/content/data/svk/adm2/license.PNG,SVK,Districts,ODbL,OpenStreetMap
+./geoeu/content/data/svn/adm0/license.png,SVN,Country,Public Domain,Andrei Nacu @ wikipedia
+./geoeu/content/data/svn/adm1/license.png,SVN,Cohesion Regions,CC-BY-4.0,European Commission
+./geoeu/content/data/swe/adm0/license.png,SWE,Country,OGLv3.0,UN World Food Program
+./geoeu/content/data/swe/adm1/license.png,SWE,Counties,CC-BY-3.0,Erik Frohne @ wikipedia
+./geoeu/content/data/swe/adm2/license.PNG,SWE,Municipalities,CC0,Moralist@wikipedia

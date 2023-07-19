@@ -1,0 +1,104 @@
+path,country,adm_level,eng_name,loc_name,nuts_level
+./geoeu/content/data/aut/adm0,AUT,0,Country,Staat,0
+./geoeu/content/data/aut/adm1,AUT,1,Federal States,Bundesländer,2
+./geoeu/content/data/aut/adm2,AUT,2,Districts | Statutory Cities,Bezirke | Statutarstädte,
+./geoeu/content/data/aut/adm3,AUT,3,Municipalities,Gemeinden,
+./geoeu/content/data/aut/adm4,AUT,4,Neighbourhood,Ortsteil,
+./geoeu/content/data/bel/adm0,BEL,0,Country,Pays | Land,0
+./geoeu/content/data/bel/adm1,BEL,1,Federal Regions,Régions | Gewesten,1
+./geoeu/content/data/bel/adm2,BEL,2,Provinces,Provinces | Provincies,2
+./geoeu/content/data/bel/adm3,BEL,3,Districts,Arrondissements | Arrondissementen,3
+./geoeu/content/data/bel/adm4,BEL,4,Municipalities,Communes | Gemeenten,
+./geoeu/content/data/bgr/adm0,BGR,0,Country,държава (Dŭrzhava),0
+./geoeu/content/data/bgr/adm1,BGR,1,Provinces,Области (Oblasti),3
+./geoeu/content/data/bgr/adm2,BGR,2,Municipalities,Общини (Obshtini),
+./geoeu/content/data/cyp/adm0,CYP,0,Country,Χώρα,0
+./geoeu/content/data/cyp/adm1,CYP,1,Provinces,επαρχίες,1
+./geoeu/content/data/cyp/adm2,CYP,2,Communities,Κοινότητες,
+./geoeu/content/data/cze/adm0,CZE,0,Country,Stát,0
+./geoeu/content/data/cze/adm1,CZE,1,Regions,Kraje,3
+./geoeu/content/data/cze/adm2,CZE,2,Districts,Okresy,
+./geoeu/content/data/cze/adm3,CZE,3,Municipalities,Pověřená obce,
+./geoeu/content/data/cze/adm4,CZE,4,Villages,Obce,
+./geoeu/content/data/deu/adm0,DEU,0,Country,Bundesstaat,0
+./geoeu/content/data/deu/adm1,DEU,1,Federal States,Länder,1
+./geoeu/content/data/deu/adm2,DEU,2,Government Districts,Regierungsbezirke,2
+./geoeu/content/data/deu/adm3,DEU,3,Districts,Kreise,3
+./geoeu/content/data/dnk/adm0,DNK,0,Country,Land,0
+./geoeu/content/data/dnk/adm1,DNK,1,Regions,Regioner,2
+./geoeu/content/data/dnk/adm2,DNK,2,Municipalities,Kommuner,
+./geoeu/content/data/esp/adm0,ESP,0,Country,País,0
+./geoeu/content/data/esp/adm1,ESP,1,Autonomous Communities,Comunidades Autónomas,2
+./geoeu/content/data/esp/adm2,ESP,2,Provinces,Provincias,3
+./geoeu/content/data/esp/adm3,ESP,3,Municipalities,Municipios,
+./geoeu/content/data/est/adm0,EST,0,Country,Riik,0
+./geoeu/content/data/est/adm1,EST,1,Counties,Maakonnad,3
+./geoeu/content/data/est/adm2,EST,2,Municipalities,Vald,
+./geoeu/content/data/est/adm3,EST,3,Neighbourhoods,Asumid,
+./geoeu/content/data/fin/adm0,FIN,0,Country,Maa,0
+./geoeu/content/data/fin/adm1,FIN,1,Regions,Maakunnat,3
+./geoeu/content/data/fin/adm2,FIN,2,Sub-Regions,Seutukunnat,
+./geoeu/content/data/fin/adm3,FIN,3,Municipalities,Kunnat,
+./geoeu/content/data/fra/adm0,FRA,0,Country,Pays,0
+./geoeu/content/data/fra/adm1,FRA,1,Regions,Régions,1
+./geoeu/content/data/fra/adm2,FRA,2,Departments,Départements,3
+./geoeu/content/data/fra/adm3,FRA,3,Districts,Arrondissements,
+./geoeu/content/data/fra/adm4,FRA,4,Cantons,Cantons,
+./geoeu/content/data/fra/adm5,FRA,5,Municipalities,Communes,
+./geoeu/content/data/grc/adm0,GRC,0,Country,Χώρα,0
+./geoeu/content/data/grc/adm1,GRC,1,Group of Regions,Γεωγραφική Ομάδα,
+./geoeu/content/data/grc/adm2,GRC,2,Regions,Περιφέρειες,2
+./geoeu/content/data/grc/adm3,GRC,3,Municipalities,δήμοι,
+./geoeu/content/data/hrv/adm0,HRV,0,Country,Država,0
+./geoeu/content/data/hrv/adm1,HRV,1,Counties,Županije,3
+./geoeu/content/data/hrv/adm2,HRV,2,Municipalities,Općine,
+./geoeu/content/data/hun/adm0,HUN,0,Country,Ország,0
+./geoeu/content/data/hun/adm1,HUN,1,Counties,Vármegyék,3
+./geoeu/content/data/hun/adm2,HUN,2,Districts,Járások,
+./geoeu/content/data/hun/adm3,HUN,3,Municipalities,Községek,
+./geoeu/content/data/irl/adm0,IRL,0,Country,Country,0
+./geoeu/content/data/irl/adm1,IRL,1,Provinces,Provinces,
+./geoeu/content/data/irl/adm2,IRL,2,Local Electoral Areas,Local Electoral Areas,
+./geoeu/content/data/ita/adm0,ITA,0,Country,Stato,0
+./geoeu/content/data/ita/adm1,ITA,1,Regions,Regioni,2
+./geoeu/content/data/ita/adm2,ITA,2,Provinces,Provincie,3
+./geoeu/content/data/ita/adm3,ITA,3,Municipalities,Comuni,
+./geoeu/content/data/ltu/adm0,LTU,0,Country,Valstybė,0
+./geoeu/content/data/ltu/adm1,LTU,1,Counties,Apskritys,3
+./geoeu/content/data/ltu/adm2,LTU,2,Districts,Rajonai,
+./geoeu/content/data/ltu/adm3,LTU,3,Elderships,Seniūnijos,
+./geoeu/content/data/lux/adm0,LUX,0,Country,Pays | Land,0
+./geoeu/content/data/lux/adm1,LUX,1,Cantons,Cantons | Kantonen | Kantone,
+./geoeu/content/data/lux/adm2,LUX,2,Municipalities,Communes | Gemengen | Gemeinden,
+./geoeu/content/data/lux/adm3,LUX,3,Municipalities,Communes | Gemengen | Gemeinden,
+./geoeu/content/data/lva/adm0,LVA,0,Country,Valsts,0
+./geoeu/content/data/lva/adm1,LVA,1,Municipalities | State Cities,Novadi | Valstspilsētas,
+./geoeu/content/data/lva/adm2,LVA,2,Counties,Novads,
+./geoeu/content/data/mlt/adm0,MLT,0,Country,Pajjiż,0
+./geoeu/content/data/mlt/adm1,MLT,1,Local councils,Kunsilli lokali,
+./geoeu/content/data/nld/adm0,NLD,0,Country,Land,0
+./geoeu/content/data/nld/adm1,NLD,1,Provinces,Provincies,2
+./geoeu/content/data/nld/adm2,NLD,2,Municipalities,Gemeenten,
+./geoeu/content/data/pol/adm0,POL,0,Country,Państwo,0
+./geoeu/content/data/pol/adm1,POL,1,Voivodeships,Województwa,2
+./geoeu/content/data/pol/adm2,POL,2,Counties,Powiatów,
+./geoeu/content/data/pol/adm3,POL,3,Municipalities,Gminy,
+./geoeu/content/data/prt/adm0,PRT,0,Country,País,0
+./geoeu/content/data/prt/adm1,PRT,1,Intermunicipal communities,Comunidades intermunicipais,3
+./geoeu/content/data/prt/adm2,PRT,2,Municipalities,Municípios,
+./geoeu/content/data/prt/adm3,PRT,3,Parishes,Freguesias,
+./geoeu/content/data/rou/adm0,ROU,0,Country,Stat,0
+./geoeu/content/data/rou/adm1,ROU,1,Counties,Judeţe,3
+./geoeu/content/data/rou/adm2,ROU,2,Communes | Municipalities,Comune | Municipii,
+./geoeu/content/data/svk/adm0,SVK,0,Country,Štát,0
+./geoeu/content/data/svk/adm1,SVK,1,Regions,Kraje,3
+./geoeu/content/data/svk/adm2,SVK,2,Districts,Okresy,
+./geoeu/content/data/svk/adm3,SVK,3,Municipalities,Obce,
+./geoeu/content/data/svk/adm4,SVK,4,Villages,Dedina,
+./geoeu/content/data/svn/adm0,SVN,0,Country,Država,0
+./geoeu/content/data/svn/adm1,SVN,1,Cohesion Regions,Kohezijske Regije,2
+./geoeu/content/data/svn/adm2,SVN,2,Municipalities,Občine,
+./geoeu/content/data/swe/adm0,SWE,0,Country,Land,0
+./geoeu/content/data/swe/adm1,SWE,1,Counties,Län,3
+./geoeu/content/data/swe/adm2,SWE,2,Municipalities,Kommuner,
+./geoeu/content/data/swe/adm3,SWE,3,Districts,Distrikten,

@@ -1,0 +1,28 @@
+# Cache
+.cache
+
+# Map content
+geoeu/content/data
+*.cpg
+*.dbf
+*.prj
+*.qpj
+*.qmd
+*.sbn
+*.sbx
+*.shp
+*.shp.xml
+*.shx
+
+# Python
+.venv
+__pycache__
+*.pyc
+*.egg
+*.egg-info
+
+# IDE
+.vscode
+
+# Others
+draft

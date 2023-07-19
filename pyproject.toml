@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "geoeu"
+version = "0.1.0"
+description = ""
+authors = ["Adrien Dumont <dev@adum.io>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+geopandas = "^0.13.2"
+pandas = "^2.0.3"
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+matplotlib = "^3.7.2"
+bump2version = "^1.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
